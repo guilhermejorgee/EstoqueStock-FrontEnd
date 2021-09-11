@@ -7,9 +7,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NavbarComponent implements OnInit {
 
+  titulodaPagina: string = "Dashboard"
+
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit(){
   }
 
 }
