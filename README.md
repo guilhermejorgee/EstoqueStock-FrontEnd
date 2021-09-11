@@ -21,8 +21,8 @@ Neste projeto foi utilizado todo conhecimento abordado no bootcamp da Generation
     <td>Heroku</td>
   </tr>
 	<tr>
-		<td>16</td>
-		<td>2.5.3</td>
+		<td>11</td>
+		<td>2.5.1</td>
 		<td>--</td>
 		<td>5</td>
 		<td>3</td>
